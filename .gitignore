@@ -1,0 +1,6 @@
+docs/
+input/
+eda/
+submissions/
+notebooks/.ipynb_checkpoints/
+notebooks/__pycache__/
