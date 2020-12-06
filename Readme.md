@@ -17,3 +17,13 @@ Notebooks:
 - post-processing.ipynb: post processing;
 - ensemble.ipynb: ensemble multiple submissions;
 - visual_submission.ipynb: generate visualization figures for visualization;
+
+
+
+**Competition page:** 
+
+https://ieee-dataport.org/competitions/ieee-cis-technical-challenge-energy-prediction-smart-meter-data
+
+I ranked **first position** on the final evaluation:
+
+https://engineering.missouri.edu/2020/12/mizzou-engineering-student-takes-first-place-in-ieee-computational-challenge/
